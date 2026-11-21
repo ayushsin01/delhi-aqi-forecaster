@@ -1,0 +1,23 @@
+{
+  "best_model": "XGBoost",
+  "horizon_hours": 6,
+  "split_date": "2025-10-01",
+  "results": {
+    "Baseline (persistence)": {
+      "MAE": 35.8,
+      "RMSE": 50.41
+    },
+    "Ridge": {
+      "MAE": 23.0,
+      "RMSE": 32.8
+    },
+    "RandomForest": {
+      "MAE": 19.02,
+      "RMSE": 27.31
+    },
+    "XGBoost": {
+      "MAE": 18.51,
+      "RMSE": 26.75
+    }
+  }
+}
