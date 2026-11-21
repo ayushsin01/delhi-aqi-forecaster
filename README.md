@@ -4,7 +4,7 @@ Predicts **PM2.5 six hours ahead** for six Delhi stations (Anand Vihar, Connaugh
 Dwarka, IGI Airport, Okhla Phase III, Rohini) from weather and recent pollution history,
 and serves it through a Streamlit app.
 
-**Live demo:** _<add your Streamlit Cloud link here>_
+**Live demo:** _<https://ayush-delhi-aqi-forecaster.streamlit.app>_
 
 ![actual vs predicted](assets/actual_vs_pred.png)
 
